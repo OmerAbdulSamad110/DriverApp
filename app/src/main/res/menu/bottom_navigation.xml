@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/pound"
+    android:icon="@drawable/ic_icon_pound_bag"
+    android:title="PAYMENTS"/>
+    <item
+        android:id="@+id/learners"
+        android:icon="@drawable/ic_icon_users"
+        android:title="LEARNERS"/>
+    <item
+        android:id="@+id/calender"
+        android:icon="@drawable/ic_calendar_full_white"
+        android:title="CALENDAR"/>
+    <item
+        android:id="@+id/offers"
+        android:icon="@drawable/ic_icon_power"
+        android:title="OFFERS"/>
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_icon_bubble_question"
+        android:title="HELP"/>
+</menu>
